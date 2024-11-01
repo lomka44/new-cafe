@@ -1,0 +1,31 @@
+.product{
+    width: 200px;
+}
+
+body{
+    background-color:rgb(243, 243, 123);
+}
+
+header{
+   color:rgb(255, 230, 0);
+   text-align:center;
+}
+
+nav a {
+    background-color:rgb(199, 166, 36);
+    padding:10px;
+    border-radius:50px;
+    color:yellow;
+    text-decoration:none;
+    
+}
+
+td{
+    padding:10px;
+}
+
+footer p{
+    text-align:center;
+
+}
+
